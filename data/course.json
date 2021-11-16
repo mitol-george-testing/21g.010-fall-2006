@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d9940baf-316a-2166-6964-0f257e9d9853"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to European and Latin American Fiction",
+  "course_description": "This subject serves as a broad introduction to the field of European and Latin American fiction. It is taught in an historical manner\u2014beginning with the first picaresque novel, _Lazarillo de Tormes_, and ending with contemporary European fiction. It is designed to help students acquire a general understanding of major fictional modes-from 18th century epistolary fiction, _Liaisons dangereuses_, to 20th century avant-garde fiction: _Cosmicomicsi_ and _Aura_. Attention is paid not only to the literary movements these works represent, but also to the subtle interplay of history, geography, language and cultural norms that gave rise to specific literary forms. While the reading load is heavy, the books are compelling.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.010",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
